@@ -21,3 +21,13 @@
   font-size: 30px;
   text-align: center
 }
+
+.img{
+
+border-radius: 50%;
+border-color: green;
+border-width: 3px;
+border-style: solid;
+
+
+}
